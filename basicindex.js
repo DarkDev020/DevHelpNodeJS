@@ -10,7 +10,7 @@ bot.on('ready', () => {
 
 console.log('test')
 
-bot.user.setActivity("New", {type: "WATCHING"})
+bot.user.setActivity("Helping Devs", {type: "WATCHING"})
 
 })
 
