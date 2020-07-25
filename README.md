@@ -9,7 +9,7 @@ Then if your using visual studio, on your bots file run npm init, then fill out 
 
 3rd: Make sure you have your bots token. Get it here: https://discord.com/developers/applications by creating a new application, clicking the bot tab then create a new bot. All inside your application you just made. After that the token will appear, click copy then paste it in bot.login("").
 
-4th: Run this line: node .
+4th: Run this line: "node ." -- without the " "
 
 //more coming soon
 
