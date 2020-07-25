@@ -13,6 +13,8 @@ Then if your using visual studio, on your bots file run npm init, then fill out 
 
 Here is the official discord.js website https://discordjs.guide/ -- this is very helpful.
 
+
+
 //More coming soon
 
 
